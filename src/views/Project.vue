@@ -18,8 +18,6 @@
         
     <button @click="redirectS">   View Project Source Code  </button>
 
-    <button @click="redirectW">   View Project Source Code  </button>
-
     
 
 </div>
